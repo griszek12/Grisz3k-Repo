@@ -46,7 +46,7 @@ Filename: debs/snesemu.deb
 Size: 1009016
 MD5sum: 243612e876ae0bbfac4fc88d00cd3418
 
-Package: com.rpetrich.videopane
+Package: vn.gsm.videopane
 Name: VideoPane
 Version: 1.0
 Architecture: iphoneos-arm
