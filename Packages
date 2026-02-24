@@ -60,7 +60,7 @@ MD5sum: 48b0445b5b835624b719ad1585584f32
 
 Package: com.grisz3k.batteryhide7
 Name: BatteryHide7
-Version: 0.0.1-1+debug
+Version: 0.1
 Architecture: iphoneos-arm
 Description: Hides the battery icon on desktop on iOS 7
 Maintainer: Grisz3k
