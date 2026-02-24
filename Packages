@@ -57,3 +57,15 @@ Section: Multimedia
 Filename: debs/videopane.deb
 Size: 451794
 MD5sum: 48b0445b5b835624b719ad1585584f32
+
+Package: com.grisz3k.batteryhide7
+Name: BatteryHide7
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Hides the battery icon on desktop on iOS 7
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: System
+Filename: debs/batteryhide7.deb
+Size: 2802
+MD5sum: 5dd111b2e2d65f8b3830ccc10f33824b
