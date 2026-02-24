@@ -69,3 +69,15 @@ Section: System
 Filename: debs/batteryhide7.deb
 Size: 2400
 MD5sum: c583efd539bd8250d71f7ebb086014b6
+
+Package: com.grisz3k.editslide
+Name: EditSlide
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Now you can edit lockscreen text
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: System
+Filename: debs/editslide.deb
+Size: 7680
+MD5sum: e9817bf2ddc13d8a3b3fefd39fc0b4c0
