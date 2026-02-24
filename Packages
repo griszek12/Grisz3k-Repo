@@ -1,4 +1,4 @@
-Package: vn.gsm.nesemu
+Package: com.grisz3k.nesemu
 Name: Nes.emu
 Version: 1.0
 Architecture: iphoneos-arm
@@ -10,7 +10,7 @@ Filename: debs/nesemu.deb
 Size: 1298052
 MD5sum: 548cd5decc2bc4e220ba6e2de7cc329e
 
-Package: vn.gsm.gbaemu
+Package: com.grisz3k.gbaemu
 Name: Gba.emu
 Version: 1.0
 Architecture: iphoneos-arm
@@ -22,7 +22,7 @@ Filename: debs/gbaemu.deb
 Size: 1537228
 MD5sum: 8f553925be3742297a5de1d93a2ce303
 
-Package: vn.gsm.gbcemu
+Package: com.grisz3k.gbcemu
 Name: Gbc.emu
 Version: 1.0
 Architecture: iphoneos-arm
@@ -34,7 +34,7 @@ Filename: debs/gbcemu.deb
 Size: 1047040
 MD5sum: 755746657f88f858f35b4276b2c04848
 
-Package: vn.gsm.snes9xex
+Package: com.grisz3k.snes9xex
 Name: Snes.emu
 Version: 1.0
 Architecture: iphoneos-arm
@@ -46,7 +46,7 @@ Filename: debs/snesemu.deb
 Size: 1009016
 MD5sum: 243612e876ae0bbfac4fc88d00cd3418
 
-Package: vn.gsm.videopane
+Package: com.grisz3k.videopane
 Name: VideoPane
 Version: 1.0
 Architecture: iphoneos-arm
