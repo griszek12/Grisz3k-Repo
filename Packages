@@ -81,3 +81,15 @@ Section: System
 Filename: debs/editslide.deb
 Size: 7680
 MD5sum: e9817bf2ddc13d8a3b3fefd39fc0b4c0
+
+Package: com.grisz3k.editslide
+Name: EditSlide
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Now you can edit lockscreen text
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: System
+Filename: debs/editslide1.deb
+Size: 8926
+MD5sum: 3f6c7fae147cb4a5240fd8fe4a608ed9
