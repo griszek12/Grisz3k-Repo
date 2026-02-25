@@ -1,0 +1,107 @@
+Package: com.grisz3k.nesemu
+Name: Nes.emu
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Nintendo Entertainment Emulator
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: Emulators
+Filename: debs/nesemu.deb
+Size: 1298052
+MD5sum: 548cd5decc2bc4e220ba6e2de7cc329e
+
+Package: com.grisz3k.gbaemu
+Name: Gba.emu
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gameboy Advance Emulator
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: Emulators
+Filename: debs/gbaemu.deb
+Size: 1537228
+MD5sum: 8f553925be3742297a5de1d93a2ce303
+
+Package: com.grisz3k.gbcemu
+Name: Gbc.emu
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gameboy / Gameboy Color Emulator
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: Emulators
+Filename: debs/gbcemu.deb
+Size: 1047040
+MD5sum: 755746657f88f858f35b4276b2c04848
+
+Package: com.grisz3k.snes9xex
+Name: Snes.emu
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Super Nintendo Entertainment Emulator
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: Emulators
+Filename: debs/snesemu.deb
+Size: 1009016
+MD5sum: 243612e876ae0bbfac4fc88d00cd3418
+
+Package: com.grisz3k.videopane
+Name: VideoPane
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Picture In Picture Mode
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: Multimedia
+Filename: debs/videopane.deb
+Size: 451794
+MD5sum: 48b0445b5b835624b719ad1585584f32
+
+Package: com.grisz3k.batteryhide7
+Name: BatteryHide7
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Hides the battery icon on desktop on iOS 7
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: System
+Filename: debs/batteryhide7.deb
+Size: 2400
+MD5sum: c583efd539bd8250d71f7ebb086014b6
+
+Package: com.grisz3k.editslide
+Name: EditSlide
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Now you can edit lockscreen text
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: System
+Filename: debs/editslide.deb
+Size: 7680
+MD5sum: e9817bf2ddc13d8a3b3fefd39fc0b4c0
+
+Package: com.grisz3k.editslide
+Name: EditSlide
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Now you can edit lockscreen text
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: System
+Filename: debs/editslide1.deb
+Size: 8926
+MD5sum: 3f6c7fae147cb4a5240fd8fe4a608ed9
+
+Package: com.grisz3k.editslide
+Name: EditSlide
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Now you can edit lockscreen text
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: System
+Filename: debs/editslide11.deb
+Size: 9562
+MD5sum: d0e1340a00d523969bd8433322e059ad
