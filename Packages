@@ -94,14 +94,14 @@ Filename: debs/editslide1.deb
 Size: 8926
 MD5sum: 3f6c7fae147cb4a5240fd8fe4a608ed9
 
-Package: com.grisz3k.editslide
-Name: EditSlide
-Version: 1.1.1
+Package: com.grisz3k.batteryhide7
+Name: BatteryHide7
+Version: 1.0
 Architecture: iphoneos-arm
-Description: Now you can edit lockscreen text
+Description: Hides the battery icon on desktop on iOS 7
 Maintainer: Grisz3k
 Author: Grisz3k
 Section: System
-Filename: debs/editslide11.deb
-Size: 9562
-MD5sum: d0e1340a00d523969bd8433322e059ad
+Filename: debs/batteryhide7.deb
+Size: 2802
+MD5sum: 5dd111b2e2d65f8b3830ccc10f33824b
