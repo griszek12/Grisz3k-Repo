@@ -93,3 +93,15 @@ Section: System
 Filename: debs/batteryhide7.deb
 Size: 4790
 MD5sum: 756b914f98fe61b8cf1d7196f17c5774
+
+Package: com.grisz3k.grannyios7
+Name: Granny7
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Granny for iOS 7
+Maintainer: Grisz3k
+Author: Grisz3k
+Section: Games
+Filename: debs/granny7.deb
+Size: 54669006
+MD5sum: f9352637169bbe1759af680bf16269a1
