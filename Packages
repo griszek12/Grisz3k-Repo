@@ -129,11 +129,10 @@ Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.0), preferenceloader (>= 2.2.2), libactivator (>= 1.9.5), applist (>= 1.5.9), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Filename: debs/videopane_fixed.deb
-Size: 451794
-MD5sum: 48b0445b5b835624b719ad1585584f32
-SHA1: 87a0a32c37f20b8f30d5d99d64c97fb46f2be54c
-SHA256: ba0bc82b6492a2f9e4455aeda93fd498fab1593edfa4b1a89b597c5b53b11c2d
-Section: !CydiaVn-Tools
+Size: 301646
+MD5sum: 718676941d2c121ddb704258ba12dd8a
+SHA1: 706e48a9f02f13b5f38440ed6f26f6e3d8d87871
+SHA256: ac7e079b5011d33b838c3363e81b0ef98007929fb19029f210e133fe914608dc
 Homepage: http://cydia.vn/
 Description: Picture-in-picture for video; multitask while playing movies
 Author: Ryan Petrich
