@@ -69,17 +69,17 @@ Author: Grisz3k
 Name: EditSlide
 
 Package: com.grisz3k.grannyios7
-Version: 1.1
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Grisz3k
 Filename: ./debs/grannyios7.deb
-Size: 62134632
-MD5sum: 769d6fc38b7c3aca117df9802db79f84
-SHA1: 9a538843d65c38c188b887d9e097c1a811ee2ce6
-SHA256: 28f31864a964c0c6ad9e29e2baaaa27f8a5bf83310aa1006b336dbf23512d80d
+Size: 62134624
+MD5sum: c7a89bcdfc5fa5db399aa332c85a1fac
+SHA1: 354a9d7912c093884e8e10dc19028b96f6f16989
+SHA256: 7f1c48947f244b0fb5e1fab3d843776999fc004b0fc1a925c82ebd4cb1ee3583
 Section: Games
-Description: Granny for iOS 7 - With Icon and Fix
-Icon: file:///Applications/granny.app/icon.jpeg
+Description: Granny 1.2 for iOS 7
+Icon: https://griszek12.github.io/Grisz3k-Repo/icon.jpg
 Name: Granny7
 
 Package: vn.gsm.gbaemu
