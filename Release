@@ -1,8 +1,8 @@
 Origin: Grisz3k Repo
 Label: Grisz3k Repo
 Suite: stable
-Version: 1.2.4
+Version: 1.2.5
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Fixed Size Mismatch and Categories
+Description: Total Cache Bypass for SNES and Others
