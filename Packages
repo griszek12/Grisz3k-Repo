@@ -9,7 +9,8 @@ Size: 1009016
 MD5sum: 243612e876ae0bbfac4fc88d00cd3418
 SHA1: f0eac3a3afcb08001e42e1d9f9d82f4c28bdc524
 SHA256: 0748376aa399934edab9fd0e9ba4b7ca0ef9cf74d049ca4bdcdc56adba0b6940
-Section: Games
+Section: Emulators
+Priority: Section
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snes9xexplusDp
 Description: Advanced SNES emulator; Snes9x 1.53
 Tag: purpose::uikit, ios7support::1, ios8support::1
@@ -31,7 +32,8 @@ Size: 4790
 MD5sum: 756b914f98fe61b8cf1d7196f17c5774
 SHA1: 2baffaf215fcb605ad44088be99b1483f929299f
 SHA256: 4d62426e2c0e965417af912abc0dbf42e618c601dff2d9cec3966cef4bcbab40
-Section: Tweaks
+Section: System
+Priority: Section
 Description: An awesome MobileSubstrate tweak!
 Author: Grisz3k
 Name: BatteryHide7
@@ -48,6 +50,7 @@ MD5sum: e9817bf2ddc13d8a3b3fefd39fc0b4c0
 SHA1: d3164f66bf8222326ba7b20d2532f99bceb63020
 SHA256: 6c363fb23b9e63a20e85d5593183954d44dc1cb247b022f46810f9d1720cb243
 Section: System
+Priority: Section
 Description: Change your "Slide to unlock" text easily.
 Author: Grisz3k
 Name: EditSlide
@@ -64,6 +67,7 @@ MD5sum: 3f6c7fae147cb4a5240fd8fe4a608ed9
 SHA1: aab9d5e531bff00de226c9da5dc55243665526f5
 SHA256: dee4a458cff783b3d42408b960b63b46373046dabcec1427a73115214ceff7e3
 Section: System
+Priority: Section
 Description: Change your "Slide to unlock" text easily.
 Author: Grisz3k
 Name: EditSlide
@@ -78,6 +82,7 @@ MD5sum: f9352637169bbe1759af680bf16269a1
 SHA1: 622db3cc444b46b4dc6e2caac5c72fd86dc9adca
 SHA256: 2bdd3c5d3d3c7a6d30b4911e0d511add6668151efb6863e4f6d644cb131b4763
 Section: Games
+Priority: Section
 Description: Granny 1.2 for iOS 7
 Name: Granny
 
@@ -91,7 +96,8 @@ Size: 1537228
 MD5sum: 8f553925be3742297a5de1d93a2ce303
 SHA1: c1b606da6acf73a53aed5d77070da12de756241d
 SHA256: 988a5b2fd394622d66c4ad6dbeba7fb09e726486f23b151199ecca39e4e11471
-Section: !CydiaVn-Games
+Section: Emulators
+Priority: Section
 Description: full-featured Gameboy Advance emulator
 Author: Robert Broglia
 Depiction: http://cydia.vn/depic/t5714/
@@ -109,7 +115,8 @@ Size: 1047040
 MD5sum: 755746657f88f858f35b4276b2c04848
 SHA1: 6173c9023ec5e2d7a4a6f99d67cf6160d39187ad
 SHA256: a76355d51fc7621a3535bcc6c987142c0227f37dfdba9e64b01b40d3ad0feb55
-Section: !CydiaVn-Games
+Section: Emulators
+Priority: Section
 Homepage: http://cydia.vn/
 Description: full-featured Gameboy Color emulator
 Author: Robert Broglia
@@ -129,7 +136,8 @@ Size: 1298052
 MD5sum: 548cd5decc2bc4e220ba6e2de7cc329e
 SHA1: ec71761c206a44c89ca5b31aa7a22edf1d42880d
 SHA256: 2a68309e148e0e17c6432205783553d3a5fc294f856f62c167517945af4f8ace
-Section: !CydiaVn-Games
+Section: Emulators
+Priority: Section
 Homepage: http://cydia.vn/
 Description: classic NES emulator full of features.
 Author: Robert Broglia
@@ -148,7 +156,8 @@ Size: 451794
 MD5sum: 48b0445b5b835624b719ad1585584f32
 SHA1: 87a0a32c37f20b8f30d5d99d64c97fb46f2be54c
 SHA256: ba0bc82b6492a2f9e4455aeda93fd498fab1593edfa4b1a89b597c5b53b11c2d
-Section: !CydiaVn-Tools
+Section: Multimedia
+Priority: Section
 Homepage: http://cydia.vn/
 Description: Picture-in-picture for video; multitask while playing movies
 Author: Ryan Petrich
