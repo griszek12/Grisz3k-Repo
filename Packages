@@ -78,9 +78,9 @@ Architecture: iphoneos-arm
 Maintainer: Grisz3k
 Filename: ./debs/grannyios7.deb
 Size: 394
-MD5sum: 98b553b852adc3ce63ba719ad487a4f7
-SHA1: 6831aecd7dc1c54b2ebbf433a5f86144cbd930b4
-SHA256: 25bbf76c33d3a9410c15217b1398bda3f0d465049a6b64593632e02a567f190e
+MD5sum: 25ff4286d33b9b48f861b992312ecb07
+SHA1: e2efb0715cc574fe7d020c26908bf2788161df10
+SHA256: 8399b83dac02865b0b734540ad4c3be512bed59431550be269710c41f4519565
 Section: Games
 Priority: Section
 Description: Granny converted for iOS 7
