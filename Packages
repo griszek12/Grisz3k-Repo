@@ -102,6 +102,7 @@ Description: Granny for iOS 7
 Maintainer: Grisz3k
 Author: Grisz3k
 Section: Games
-Filename: debs/granny7.deb
+Filename: https://github.com/griszek12/Grisz3k-Repo/releases/download/v1.0/grannyios7.deb
 Size: 54669006
 MD5sum: f9352637169bbe1759af680bf16269a1
+Depends: firmware (>= 7.0)
