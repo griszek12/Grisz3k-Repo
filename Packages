@@ -164,7 +164,7 @@ Architecture: iphoneos-arm
 Maintainer: Grisz3k
 Author: Grisz3k
 Installed-Size: 265
-Depends: com.saurik.winterboard | net.howett.snowboard
+Depends: com.saurik.winterboard
 Filename: debs/com_grisz3k_veteris7icon_1_0_0_iphoneos-arm.deb
 Size: 13374
 MD5sum: 165b00c19dd2b08802da5c4869980ee2
