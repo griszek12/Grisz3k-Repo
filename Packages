@@ -31,7 +31,7 @@ Size: 4790
 MD5sum: 756b914f98fe61b8cf1d7196f17c5774
 SHA1: 2baffaf215fcb605ad44088be99b1483f929299f
 SHA256: 4d62426e2c0e965417af912abc0dbf42e618c601dff2d9cec3966cef4bcbab40
-Section: Tweaks
+Section: System
 Description: An awesome MobileSubstrate tweak!
 Author: Grisz3k
 Name: BatteryHide7
@@ -66,7 +66,7 @@ Description: Granny 1.2 for iOS 7
 Icon: https://griszek12.github.io/Grisz3k-Repo/icon.jpg
 Name: Granny7
 
-Package: com.grzegorz.bettervolume7
+Package: com.grisz3k.bettervolume7
 Version: 1.0-13+debug
 Architecture: iphoneos-arm
 Maintainer: Grzegorz
@@ -77,7 +77,7 @@ Size: 6258
 MD5sum: 64ba3001ac02796f2222ac7f7178b8f5
 SHA1: b520cb49864c3114c77421022e3e4c34db93f69a
 SHA256: 778f14fa78d47b75cf3d834f74a977409fe234161d886ca55620dc6c8ebb5ed1
-Section: Tweaks
+Section: System
 Description: iOS 18 style volume bar for iPhone 4
 Name: BetterVolume7
 
