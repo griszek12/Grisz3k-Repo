@@ -166,10 +166,10 @@ Author: Grisz3k
 Installed-Size: 265
 Depends: winterboard
 Filename: debs/com_grisz3k_veteris7icon_1_0_0_iphoneos-arm.deb
-Size: 13938
-MD5sum: b08cad5678fbc8c3ebad334b46c630d8
-SHA1: 514771e912e7f80ffa090843a9db67ec37fdffcd
-SHA256: 96387219ae57beee127d5c4802e442fcb53f39c986378ed31927a0d29c5f3418
+Size: 13512
+MD5sum: 0206bd23ec55f84d3c1501c0fe582103
+SHA1: a1895865cf977954305c28b512f2e29cdfe42c80
+SHA256: 2f16edf2f751c28006d4102892d5b2fed1db2d50897335e463e20eabdb6de823
 Section: Themes
 Description: Veteris icon based of iOS 7 icons
 Name: Veteris iOS 7 icon
