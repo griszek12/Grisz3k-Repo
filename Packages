@@ -156,20 +156,3 @@ Depiction: http://cydia.vn/depic/t4582/
 Icon: file:///System/Library/PreferenceLoader/Preferences/VideoPane/VideoPane@2x.png
 Name: VideoPane
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
-
-
-Package: com.grisz3k.veteris7icon
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Grisz3k
-Author: Grisz3k
-Installed-Size: 265
-Depends: winterboard
-Filename: debs/com_grisz3k_veteris7icon_1_0_0_iphoneos-arm.deb
-Size: 13518
-MD5sum: 0a68926249c15d32e1bdba21b9d4b43a
-SHA1: 39c31b5b1a301327be8516858a9d89885a47105b
-SHA256: 778de8d0f7d8434e9fea92dc0865e1c49496d511226c469d822d4648c9baf189
-Section: Themes
-Description: Veteris icon based of iOS 7 icons
-Name: Veteris iOS 7 icon
