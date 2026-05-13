@@ -27,6 +27,7 @@ Maintainer: Grisz3k
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/batteryhide_fixed.deb
+Icon: https://griszek12.github.io/Grisz3k-Repo/icons/BatteryHide7.png
 Size: 4790
 MD5sum: 756b914f98fe61b8cf1d7196f17c5774
 SHA1: 2baffaf215fcb605ad44088be99b1483f929299f
@@ -43,12 +44,13 @@ Maintainer: Grzegorz
 Installed-Size: 76
 Depends: mobilesubstrate
 Filename: debs/bettervolume7.deb
+Icon: https://griszek12.github.io/Grisz3k-Repo/icons/BetterVolume7.png
 Size: 6260
 MD5sum: d8093f6dc0fa5ad5ac0f23170e8f6760
 SHA1: 1b86790b3f66646163dc8f1c66b87ec95ecc0851
 SHA256: 5da4ea6ffa453dc500f63fdbb519e338d6b9a9da02d165a86e14da1909df204e
 Section: System
-Description: iOS 18 style volume bar for iPhone 4
+Description: iOS 18 Volume Style for iOS 7!
 Name: BetterVolume7
 
 Package: com.grisz3k.editslide
@@ -58,6 +60,7 @@ Maintainer: Grisz3k
 Installed-Size: 296
 Depends: mobilesubstrate
 Filename: debs/editslide1.deb
+Icon: https://griszek12.github.io/Grisz3k-Repo/icons/SlideToEdit.png
 Size: 8926
 MD5sum: 3f6c7fae147cb4a5240fd8fe4a608ed9
 SHA1: aab9d5e531bff00de226c9da5dc55243665526f5
@@ -136,23 +139,4 @@ Author: Robert Broglia
 Depiction: http://cydia.vn/depic/t1403/
 Icon: file:///Applications/NesEmu.app/icon-57.png
 Name: NES.emu
-Sponsor: Cydia.vn Blog's <http://cydia.vn/>
-
-Package: vn.gsm.videopane
-Version: 2.0.6k
-Architecture: iphoneos-arm
-Maintainer: Cydia.vn <repo@cydia.vn>
-Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.0), preferenceloader (>= 2.2.2), libactivator (>= 1.9.5), applist (>= 1.5.9), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
-Filename: debs/videopane_fixed.deb
-Size: 451794
-MD5sum: 48b0445b5b835624b719ad1585584f32
-SHA1: 87a0a32c37f20b8f30d5d99d64c97fb46f2be54c
-SHA256: ba0bc82b6492a2f9e4455aeda93fd498fab1593edfa4b1a89b597c5b53b11c2d
-Section: !CydiaVn-Tools
-Homepage: http://cydia.vn/
-Description: Picture-in-picture for video; multitask while playing movies
-Author: Ryan Petrich
-Depiction: http://cydia.vn/depic/t4582/
-Icon: file:///System/Library/PreferenceLoader/Preferences/VideoPane/VideoPane@2x.png
-Name: VideoPane
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
