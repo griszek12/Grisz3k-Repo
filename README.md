@@ -9,6 +9,6 @@
 
 ---
 TWEAKS:
-- [Granny7](Granny7.md)
-- [BatteryHide7](BatteryHide7.md)
-- [EditSlie](EditSlide.md)
+- [Granny7](Granny7.html)
+- [BatteryHide7](BatteryHide7.html)
+- [EditSlie](EditSlide.html)
