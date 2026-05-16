@@ -11,4 +11,5 @@
 TWEAKS:
 - [Granny7](Granny7.html)
 - [BatteryHide7](BatteryHide7.html)
-- [EditSlie](EditSlide.html)
+- [BetterVolume7](BetterVolume7.html)
+- [EditSlide](EditSlide.html)
